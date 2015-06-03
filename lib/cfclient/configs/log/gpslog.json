@@ -1,0 +1,16 @@
+{
+  "logconfig": {
+    "logblock": {
+      "variables": [
+        {
+          "stored_as": "", 
+          "type": "TOC", 
+          "name": "extgps.gpsFlag", 
+          "fetch_as": "int8_t"
+        }
+      ], 
+      "name": "gpslog", 
+      "period": 1000
+    }
+  }
+}

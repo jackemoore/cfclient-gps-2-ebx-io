@@ -1,0 +1,16 @@
+{
+  "logconfig": {
+    "logblock": {
+      "variables": [
+        {
+          "stored_as": "", 
+          "type": "TOC", 
+          "name": "gps.heading", 
+          "fetch_as": "int32_t"
+        }
+      ], 
+      "name": "gpsloghdg", 
+      "period": 1000
+    }
+  }
+}

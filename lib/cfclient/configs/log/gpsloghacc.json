@@ -1,0 +1,16 @@
+{
+  "logconfig": {
+    "logblock": {
+      "variables": [
+        {
+          "stored_as": "", 
+          "type": "TOC", 
+          "name": "gps.hAcc", 
+          "fetch_as": "uint32_t"
+        }
+      ], 
+      "name": "gpsloghacc", 
+      "period": 1000
+    }
+  }
+}

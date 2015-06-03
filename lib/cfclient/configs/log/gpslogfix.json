@@ -1,0 +1,16 @@
+{
+  "logconfig": {
+    "logblock": {
+      "variables": [
+        {
+          "stored_as": "", 
+          "type": "TOC", 
+          "name": "gps.fixType", 
+          "fetch_as": "uint8_t"
+        }
+      ], 
+      "name": "gpslogfix", 
+      "period": 1000
+    }
+  }
+}
